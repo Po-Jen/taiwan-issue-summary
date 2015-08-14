@@ -31,7 +31,7 @@
 ## 中央政府
 
  - 司法問題
- - 立院黨團協商
+ - [立院黨團協商](articles/central_legislation.md)
 
 ## 經濟發展
 
