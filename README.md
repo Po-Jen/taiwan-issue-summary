@@ -37,7 +37,7 @@
 
 ## 經濟發展
 
- - 產業發展政策
+ - [產業升級](articles/economy_nextgeneration.md)
  - 貿易協定
 
 ## 醫療體制
