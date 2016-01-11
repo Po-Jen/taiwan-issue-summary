@@ -16,6 +16,7 @@
 
  - [如何提升立法院議事效率](http://www.npf.org.tw/3/10970)
  - [立法院黨團協商制度之探討](http://ir.nou.edu.tw/dspace/bitstream/987654321/737/1/S1405-%E6%88%91%E5%9C%8B%E7%AB%8B%E6%B3%95%E9%99%A2%E9%BB%A8%E5%9C%98%E5%8D%94%E5%95%86%E5%88%B6%E5%BA%A6%E4%B9%8B%E6%8E%A2%E8%A8%8E(%E8%83%A1%E6%96%87%E6%A3%9F).pdf)
+ - [立委投票「超級」指南](http://www.thenewslens.com/post/266665/?utm_campaign=CodeTengu&utm_medium=email&utm_source=CodeTengu_24)
 
 ## 誰在推動改革
 
